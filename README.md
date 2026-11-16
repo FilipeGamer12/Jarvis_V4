@@ -49,7 +49,7 @@ O script não exige o pacote Python `ollama`: a comunicação com o Ollama é fe
 Clone o repositório:
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/FilipeGamer12/Jarvis_V4.git
 cd <PASTA_DO_REPOSITORIO>
 ```
 
